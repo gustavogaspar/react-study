@@ -1,0 +1,10 @@
+.Footer {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    font-family: Calibri;
+    font-size: 12px;
+    text-align: end;
+    padding: 5px;
+    color: white;
+    background: #341940;
+}

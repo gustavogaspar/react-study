@@ -1,0 +1,21 @@
+.Header{
+    text-align: left;
+    padding: 5px;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.logo{
+    color:rgb(24, 22, 22);
+    font-size: 50px;
+    font-family: 'Caveat', cursive;
+}
+
+.menu{
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+.btn{
+    grid-column-start: 4;
+    grid-column-end: 4;
+}
